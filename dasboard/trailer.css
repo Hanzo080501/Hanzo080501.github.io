@@ -229,20 +229,20 @@ hr{
     }
 }
 
-header .invo-film {
-position: absolute;
-width: 147px;
-height: 53px;
-left: 50rem;
-top: 35rem;
+    header .invo-film {
+    position: absolute;
+    width: 147px;
+    height: 53px;
+    left: 50rem;
+    top: 35rem;
 }
 
 .invo-film h4 {
-font-style: normal;
-font-weight: 700;
-font-size: 35px;
-line-height: 52px;
-color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 52px;
+    color: #000000;
 }
 
 .line {
@@ -336,15 +336,15 @@ header .card {
   }
 
   .close-button {
-    position: absolute;
-    top: 0;
-    right: 0;
-    border: none;
-    background-color: transparent;
-    color: #fff;
-    font-size: 40px;
-    padding: 10px;
-    cursor: pointer;
+        position: absolute;
+        top: 0;
+        right: 0;
+        border: none;
+        background-color: transparent;
+        color: #fff;
+        font-size: 40px;
+        padding: 10px;
+        cursor: pointer;
   }
 
 
